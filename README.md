@@ -1,4 +1,5 @@
 **‘‘Go is an open source programming language that makes it easy to build simple, reliable, and efficient software.’’** (From the Go website at golang.org )
+
 Go was conceived in September 2007 by Robert Griesemer, Rob Pike, and Ken Thompson, all at Google, and was announced in November 2009. The goals of the language and its accompanying tools were to be expressive, efficient in both compilation and execution, and effective
 in writing reliable and robust programs.
 
